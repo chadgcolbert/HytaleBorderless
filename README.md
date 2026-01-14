@@ -55,4 +55,4 @@ No game files are modified.
 Because I just fac reset my pc and didnt have VS downloaded, i just used the built in C# compiler in windows, you can lookup how to do it yourself if you don't trust the exe.
 
 # This tool is not affiliated with Riot Games or the Hytale development team.
-Use at your own risk. No warranties are provided.
+Use at your own risk. 
